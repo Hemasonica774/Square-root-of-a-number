@@ -26,7 +26,7 @@ print("Square root of the number:",newton_method(a))
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![](srm.png)
 
 
 ## Result:
